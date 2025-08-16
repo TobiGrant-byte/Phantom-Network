@@ -20,7 +20,7 @@ body{
     overflow-x: hidden;
     background-color: black;
     color: white;
-    overflow: hidden;
+    overflow-right: hidden;
 }
 
 header{
@@ -276,6 +276,7 @@ span{
     height: auto;
     overflow: auto;
 }
+
 
 
 
