@@ -270,9 +270,11 @@ span{
 
 
 .box {
-    width: 1000px;
-    height: 500px;
+    width: 90%;
+    max-width: 1000px;
+    height: auto;
     overflow: auto;
 }
+
 
 
