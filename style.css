@@ -20,7 +20,6 @@ body{
     overflow-x: hidden;
     background-color: black;
     color: white;
-    overflow-right: hidden;
 }
 
 header{
@@ -101,6 +100,7 @@ nav a.active{
 section{
     min-height: 100vh;
     padding: 5rem 9% 5rem;
+    overflow-right: hidden;
 }
 
 .home{
@@ -270,12 +270,13 @@ span{
 }
 
 
-.box {
+/*.box {*/
     width: 90%;
     max-width: 1000px;
     height: auto;
     overflow: auto;
 }
+
 
 
 
