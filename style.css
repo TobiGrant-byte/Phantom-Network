@@ -38,7 +38,7 @@ header{
 }
 
 .logo{
-    font-size: 2rem;
+    font-size: 3rem;
     color: skyblue;
     font-weight: 800;
     cursor: pointer;
@@ -46,7 +46,7 @@ header{
 }
 
 .logo:hover{
-    transform: scale(1.1);
+    transform: scale(1.0);
 }
 
 nav a{
@@ -276,6 +276,7 @@ span{
     height: auto;
     overflow: auto;
 }
+
 
 
 
