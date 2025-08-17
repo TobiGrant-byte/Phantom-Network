@@ -38,12 +38,11 @@ header{
 }
 
 .logo{
-    font-size: 3rem;
+    font-size: 2rem;
     color: skyblue;
     font-weight: 800;
     cursor: pointer;
     transition: 0.5s ease;
-    position: absolute;
 }
 
 .logo:hover{
@@ -277,6 +276,7 @@ span{
     height: auto;
     overflow: auto;
 }
+
 
 
 
