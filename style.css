@@ -38,7 +38,7 @@ header{
 }
 
 .logo{
-    font-size: 3rem;
+    font-size: 2rem;
     color: skyblue;
     font-weight: 800;
     cursor: pointer;
@@ -132,7 +132,7 @@ span{
 }
 
 .home-img{
-    border-radius: 50%;
+    border-radius: 40%;
 }
 
 .home-img img{
@@ -276,6 +276,7 @@ span{
     height: auto;
     overflow: auto;
 }
+
 
 
 
